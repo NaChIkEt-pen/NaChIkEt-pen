@@ -4,12 +4,10 @@
 ## About Me
 - 🧑🏼‍🎓 Sophomore, pursuing B.Tech in Information Technology at Vellore Institute of Technology
 - 👨🏼‍💻 NextJs Enthusiast & Full Stack Developer
-- 🖼 Graphic Designer
-- 💵 Web3 & Crypto Enthusiast
-- 📒 Hindi, English, Spanish, French
-- ✒ Currently learning Django
-- 📧 Feel free to reach out to me via mishrasidhant01@gmail.com 
-
+- 💵 Machine Learning & Data Science Enthusiast
+- 📒 Marathi, Hindi, English, French
+- 📧 Feel free to reach out to me via nachiketpensalwar@gmail.com
+  
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
