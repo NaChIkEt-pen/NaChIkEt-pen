@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**NaChIkEt-pen/NaChIkEt-pen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nachiket Pensalwar](https://github.com/NaChIkEt-pen/NaChIkEt-pen/assets/116742714/0b9c7dfa-e0ea-4c6a-966a-8eb84e5c0029)
 
-Here are some ideas to get you started:
+## About Me
+- 🧑🏼‍🎓 Sophomore, pursuing B.Tech in Information Technology at Vellore Institute of Technology
+- 👨🏼‍💻 NextJs Enthusiast & Full Stack Developer
+- 🖼 Graphic Designer
+- 💵 Web3 & Crypto Enthusiast
+- 📒 Hindi, English, Spanish, French
+- ✒ Currently learning Django
+- 📧 Feel free to reach out to me via mishrasidhant01@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,java,html,css,javascript,bootstrap,jquery,tailwind,react,nextjs,nodejs,docker,postgres,mysql,express,solidity,linux&perline=10" />
+  </a>
+</p>
