@@ -11,6 +11,6 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,p,c,cpp,java,html,css,javascript,bootstrap,tailwind,react,nextjs,nodejs,docker,mysql,express,linux,vite,prisma,aws,qt,mongo&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,java,html,css,javascript,bootstrap,tailwind,react,nextjs,nodejs,docker,mysql,express,linux,vite,prisma,aws,qt,mongo&perline=10" />
   </a>
 </p>
