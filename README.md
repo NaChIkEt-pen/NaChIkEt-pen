@@ -17,3 +17,4 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,c,cpp,java,html,css,javascript,flask,bootstrap,tailwind,react,nextjs,nodejs,docker,mysql,express,postman,linux,vite,prisma,aws,azure,qt,mongo,numpy,opencv,pandas,streamlit,kaggle,pbi,matplotlib,seaborn,sequelize,androidstudio,kotlin,flutter,jetpackcompose,arduino,figma&perline=10" />
   </a>
 </p>
+<!-- https://github.com/lelouchfr/skill-icons -->
