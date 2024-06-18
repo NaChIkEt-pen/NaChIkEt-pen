@@ -11,6 +11,9 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,java,html,css,javascript,bootstrap,tailwind,react,nextjs,nodejs,docker,mysql,express,linux,vite,prisma,aws,azure,qt,mongo,streamlit&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,java,html,css,javascript,bootstrap,tailwind,react,nextjs,nodejs,docker,mysql,express,linux,vite,prisma,aws,azure,qt,mongo&perline=10" />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit,matplotlib,seaborn,sequelize" />
   </a>
 </p>
