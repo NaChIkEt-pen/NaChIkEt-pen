@@ -32,4 +32,4 @@
    <img src="https://github.com/eshan1925/eshan1925/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=nachiket-pen.nachiket-pen)
-[![GitHub arjeetanand](https://img.shields.io/github/followers/nachiket-pen?label=followers&logo=Github)](https://github.com/nachiket-pen)
+[![GitHub nachiket-pen](https://img.shields.io/github/followers/nachiket-pen?label=followers&logo=Github)](https://github.com/nachiket-pen)
