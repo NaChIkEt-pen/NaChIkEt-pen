@@ -31,6 +31,5 @@
 <p align="center">
    <img src="https://github.com/eshan1925/eshan1925/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://visitor-badge.laobi.icu/badge?page_id=nachiket-pen.nachiket-pen)
+[![GitHub arjeetanand](https://img.shields.io/github/followers/nachiket-pen?label=followers&logo=Github)](https://github.com/nachiket-pen)
