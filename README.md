@@ -1,13 +1,13 @@
 
 ![Nachiket Pensalwar](https://github.com/NaChIkEt-pen/NaChIkEt-pen/assets/116742714/0b9c7dfa-e0ea-4c6a-966a-8eb84e5c0029)
-
+##Website: www.nachiket.pensalwar.in/
 ## About Me
 - 🧑🏼‍🎓 Pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Vellore.
 - 👨🏼‍💻 NextJs & Full Stack Developer.
 - 💵 Machine Learning & Data Science Enthusiast.
 - 📒 Marathi, Hindi, English, French.
 - 📧 Feel free to reach out to me via nachiketpensalwar@gmail.com
-- 🔗 or Contact via form on https://nachiket.pensalwar.in/
+- 🔗 Contact via form on www.nachiket.pensalwar.in/#connect
   
 ## Languages and Tools
 <p align="center">
