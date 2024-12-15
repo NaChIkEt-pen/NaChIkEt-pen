@@ -7,7 +7,7 @@
 - 👨🏼‍💻 NextJs & Full Stack Developer.
 - 💵 Machine Learning & Data Science Enthusiast.
 - 📒 Marathi, Hindi, English, French.
-- 📧 Feel free to reach out to me via nachiketpensalwar@gmail.com
+- 📧 Feel free to reach out to me via nachiketsandeep@gmail.com
 - 🔗 Contact via form on https://nachiket.pensalwar.in/#connect
   
 ## Languages and Tools
