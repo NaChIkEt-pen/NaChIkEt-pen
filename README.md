@@ -30,9 +30,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NaChIkEt-pen&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaChIkEt-pen&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-   <img src="https://github.com/eshan1925/eshan1925/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 ###
 ![](https://visitor-badge.laobi.icu/badge?page_id=nachiket-pen.nachiket-pen)
