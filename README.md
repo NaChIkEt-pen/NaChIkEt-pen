@@ -1,5 +1,5 @@
 
-![Nachiket Pensalwar](https://github.com/NaChIkEt-pen/NaChIkEt-pen/assets/116742714/0b9c7dfa-e0ea-4c6a-966a-8eb84e5c0029)
+![Nachiket Pensalwar]([https://github.com/NaChIkEt-pen/NaChIkEt-pen/assets/116742714/0b9c7dfa-e0ea-4c6a-966a-8eb84e5c0029](https://github.com/NaChIkEt-pen/NaChIkEt-pen/blob/main/Nachiket%20Pensalwar%20(2).png))
 ## Website: 
 - 🔗 https://nachiket.pensalwar.in
 ## About Me
