@@ -5,8 +5,8 @@
 ## About Me
 - SRE @ <a href="https://www.luganodes.com/" target="_blank">Luganodes</a>
 - 🧑🏼‍🎓 Pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Vellore.
-- 👨🏼‍💻 NextJs & Full Stack Developer.
-- 💵 Machine Learning & Data Science Enthusiast.
+- 👨🏼‍💻 Software Developer.
+- 💵 Backend, DevOps, Gen-AI, Machine Learning & Data Science Enthusiast.
 - 📒 Marathi, Hindi, English, French.
 - 📧 Feel free to reach out to me via nachiket@pensalwar.in
 - 🔗 Contact via form on https://nachiket.pensalwar.in/#connect
