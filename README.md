@@ -3,7 +3,7 @@
 ## Website: 
 - 🔗 https://nachiket.pensalwar.in
 ## About Me
-- SRE @ [Luganodes](https://www.luganodes.com/)
+- SRE @ <a href="https://www.luganodes.com/" target="_blank">Luganodes</a>
 - 🧑🏼‍🎓 Pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Vellore.
 - 👨🏼‍💻 NextJs & Full Stack Developer.
 - 💵 Machine Learning & Data Science Enthusiast.
