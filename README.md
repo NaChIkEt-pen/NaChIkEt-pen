@@ -28,12 +28,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nachiketpensalwar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nachiketpensalwar)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NaChIkEt-pen&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NaChIkEt-pen&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaChIkEt-pen&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 ###
 ![](https://visitor-badge.laobi.icu/badge?page_id=nachiket-pen.nachiket-pen)
 
