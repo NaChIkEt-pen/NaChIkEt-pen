@@ -3,11 +3,11 @@
 ## Website: 
 - 🔗 https://nachiket.pensalwar.in
 ## About Me
-- SRE @ <a href="https://www.luganodes.com/" target="_blank">Luganodes</a>
-- 🛠️ Learning Rust by building CLIs for my day-to-day work
-- 🧑🏼‍🎓 Pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Vellore.
+- SRE @ <a href="https://www.luganodes.com/" target="_blank">Luganodes</a> . 
+- 🛠️ Getting Rusty and Oxidising my life by building CLIs for my day-to-day work. 
+- 🧑🏼‍🎓 B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Vellore.
 - 👨🏼‍💻 Site Reliability Engineer, Cloud Infra Engineer & Software Developer.
-- 💵 Backend, DevOps, Gen-AI, Machine Learning & Data Science Enthusiast.
+- 💵 SRE, DevOps, Backend, Gen-AI, Machine Learning Enthusiast.
 - 📒 Marathi, Hindi, English, French.
 - 📧 Feel free to reach out to me via nachiket@pensalwar.in
 - 🔗 Contact via form on https://nachiket.pensalwar.in/#connect
