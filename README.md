@@ -3,7 +3,7 @@
 ## Website: 
 - 🔗 https://nachiket.pensalwar.in
 ## About Me
-- SRE @ <a href="https://www.luganodes.com/" target="_blank">Luganodes</a> . 
+- SRE @ <a href="https://www.luganodes.com/" target="_blank">Luganodes</a>. 
 - 🛠️ Getting Rusty and Oxidising my life by building CLIs for my day-to-day work. 
 - 🧑🏼‍🎓 B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Vellore.
 - 👨🏼‍💻 Site Reliability Engineer, Cloud Infra Engineer & Software Developer.
